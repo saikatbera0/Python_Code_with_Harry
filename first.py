@@ -1,3 +1,2 @@
-a=6
-print(a)
-b=7
+print("Hello World")
+print(5)
